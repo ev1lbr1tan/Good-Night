@@ -12,3 +12,6 @@
 - **Settings menu**: Change the program language from the settings menu.
 - **About section**: Information about the program and its version.
 
+## Download
+
+[THE CURRENT VERSION OF THE PROGRAM](https://github.com/ev1lbr1tan/Good-Night-/releases/tag/Release).
